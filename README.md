@@ -44,3 +44,4 @@ Planner to desktopowa aplikacja do zarządzania zadaniami, która umożliwia:
     ```bash
     python planner.py
     ```
+![image](https://github.com/user-attachments/assets/201fc253-d2a3-45e0-85ca-d0dfef06ad1b)
