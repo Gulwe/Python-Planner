@@ -1,3 +1,4 @@
+[![pl](https://img.shields.io/badge/lang-pl-red.svg)](https://github.com/Gulwe/Python-Planner/blob/main/README.pl.md)
 # Python Planner - Task Management Application
 
 Python Planner is a desktop application for managing your tasks. It enables you to:
